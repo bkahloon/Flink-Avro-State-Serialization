@@ -1,0 +1,5 @@
+package serializer
+
+class AvroStateSerializer {
+
+}
